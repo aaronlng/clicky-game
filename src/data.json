@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "/assets/images/andy-reid.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "/assets/images/brian-dawkins.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "/assets/images/brian-westbrook.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "/assets/images/carson-wentz.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "/assets/images/desean-jackson.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "/assets/images/donovan-mcnabb.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "/assets/images/doug-pederson.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "/assets/images/fletcher-cox.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "/assets/images/jason-kelce.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "/assets/images/lane-johnson.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "/assets/images/malcolm-jenkins.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "/assets/images/zach-ertz.jpg",
+        "clicked": false
+    }
+]
