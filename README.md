@@ -19,7 +19,7 @@ npm start
 
 ## Demo the App
 
-- [Clicky Game]()
+- [Clicky Game](https://www.aaronlng.dev/clicky-game/)
 
 ## Author
 
