@@ -1,6 +1,6 @@
 # Clicky Game App
 
-A React-based app that challenges the user's memory. Click on each image to score a point, but make sure to not click on 
+A React-based app that challenges the user's memory. Click on each image to score a point, but make sure to not click on
 the same image more than once or you lose!
 
 ![Demo of the Clicky Game](/client/assets/demo.gif)
